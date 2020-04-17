@@ -2,13 +2,11 @@
   text-align: left;
 }
 
-.AddBookmark__form input,
-.AddBookmark__form textarea {
+.AddBookmark__form input, .AddBookmark__form textarea {
   display: block;
   text-align: left;
   margin-top: 5px;
   margin-bottom: 15px;
-  /* minus side padding and border */
   width: calc(100% - 16px - 2px);
   padding: 5px 8px;
   border: 1px solid #ddd;
